@@ -1,0 +1,10 @@
+.App {
+    margin-top: 0;
+    display: flex;
+    width: 100vw; /*vw = viewport width*/
+    height: 100vh; /*vh = viewport height*/
+    justify-content: center;
+    align-items: center;
+    background: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
